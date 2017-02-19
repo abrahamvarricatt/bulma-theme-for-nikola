@@ -2,10 +2,10 @@
 
 # Basic blog details
 BLOG_AUTHOR = "BLOG_AUTHOR"
-BLOG_TITLE = "Libretto"
+BLOG_TITLE = "Bluma Title"
 BLOG_DESCRIPTION = "You can write a brief (or long!) description of your " \
                    "blog here."
-SITE_URL = "https://note2self.abraham-v.com/libretto-theme-for-nikola/"
+SITE_URL = "https://note2self.abraham-v.com/bulma-theme-for-nikola/"
 BLOG_EMAIL = "no@email.here"
 TIMEZONE = "America/Toronto"
 
@@ -46,22 +46,4 @@ COMMENT_SYSTEM = ""
 # Small notice near bottom of every page
 # <a> tag is optional
 CONTENT_FOOTER = "Contents © 2017 <a href='mailto:please@no.spam'>Abraham Varricatt</a>"
-
-# Social media links, will generate icons near bottom of every page
-# WARNING: This usage is NOT the same as on other Nikola themes!!
-# On this theme, we make a dictionary of links.
-# The theme tries to figure out the icon based on links in the dictionary.
-# Supported sites are - dribbble.com, facebook.com, flickr.com, google.com,
-# instagram.com, linkedin.com, pinterest.com, getpocket.com, reddit.com,
-# stumbleupon.com, tumblr.com, twitter.com, vimeo.com, youtube.com
-# Sites not in this list will get a star icon.
-# NOTE: The order of these buttons is ALWAYS randomized each time you build a
-# new version of your site.
-SOCIAL_BUTTONS_CODE = {
-    'https://twitter.com/GetNikola',
-    'https://www.linkedin.com/in/abrahamvarricatt/',
-    'https://github.com/abrahamvarricatt/',
-    'http://www.facebook.com/',
-    'https://www.reddit.com/r/civ/',
-}
 
