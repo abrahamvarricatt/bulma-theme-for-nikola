@@ -10,7 +10,7 @@ BLOG_EMAIL = "no@email.here"
 TIMEZONE = "America/Toronto"
 
 # Blog configuration
-THEME = "libretto"
+THEME = "bulma"
 DEFAULT_LANG = "en"
 INDEX_DISPLAY_POST_COUNT = 4
 INDEX_TEASERS = True
